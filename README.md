@@ -25,7 +25,7 @@ Este repositório contém soluções em Java para os desafios de código propost
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd faturamento-desafio
+   cd Desafio-Target-Sistemas
    ```
 
 3. Importe o projeto em sua IDE Java favorita (Eclipse, IntelliJ, etc.) ou compile via linha de comando:
